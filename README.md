@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @jemmacros
-- 👀 I’m interested in Bioinformatics & Genomics
-- 🌱 I’m currently learning R and Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+This repository includes the final analysis file for the research project "Identification and Prioritisation of Hypertension Drug Targets: A Multi-Tissue, Multi-Omics Approach".
+
+
 
 <!---
 jemmacros/jemmacros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
